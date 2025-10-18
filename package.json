@@ -1,11 +1,11 @@
 {
-	"name": "sweet-vscode",
-	"displayName": "Sweet Vscode",
-	"description": "A dark and modern theme for vscode",
-	"version": "1.1.1",
+	"name": "sweet-vscode-dark",
+	"displayName": "Sweet Vscode Dark",
+	"description": "An ultra-dark modern theme for vscode - customized darker version",
+	"version": "1.1.2",
 	"icon": "images/icon.png",
 	"galleryBanner": {
-		"color": "#191925",
+		"color": "#111115",
 		"theme": "dark"
 	},
 	"publisher": "EliverLara",
@@ -26,7 +26,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Sweet vscode",
+				"label": "Sweet vscode Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color-theme-sweet.json"
 			}
