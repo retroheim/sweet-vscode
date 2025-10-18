@@ -424,7 +424,7 @@
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#06c993"
+        "foreground": "#50FA7B"
       }
     },
     {
@@ -433,14 +433,14 @@
         "entity.name.tag.js.jsx support.class.component.js.jsx"
       ],
       "settings": {
-        "foreground": "#f60055"
+        "foreground": "#FF79C6"
       }
     },
     {
       "scope": "entity.other.attribute-name",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#00dded"
+        "foreground": "#8BE9FD"
       }
     },
     {
@@ -450,20 +450,20 @@
         "entity.other.attribute-name.parent-selector-suffix.css punctuation.definition.entity.css"
       ],
       "settings": {
-        "foreground": "#06c993"
+        "foreground": "#50FA7B"
       }
     },
     {
       "scope": "entity.other.attribute-name.id.css",
       "settings": {
-        "foreground": "#f69154"
+        "foreground": "#FFB86C"
       }
     },
     {
       "scope": "\n\t\tentity.other.attribute-name.pseudo-class.css\n\t\tentity.other.pseudo-class.css\n\t",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#00dded"
+        "foreground": "#8BE9FD"
       }
     },
     {
@@ -472,7 +472,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#06c993"
+        "foreground": "#50FA7B"
       }
     },
     {
@@ -490,19 +490,19 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#f60055"
+        "foreground": "#FF79C6"
       }
     },
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#f60055"
+        "foreground": "#FF79C6"
       }
     },
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#f60055"
+        "foreground": "#FF79C6"
       }
     },
     {
@@ -956,7 +956,7 @@
       "scope": "storage.type",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#00dded"
+        "foreground": "#66D9EF"
       }
     },
     {
@@ -989,7 +989,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#7c3aed"
+        "foreground": "#F1FA8C"
       }
     },
     {
@@ -1120,7 +1120,7 @@
         "variable.other"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#F8F8F2"
       }
     },
     {
@@ -1130,7 +1130,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f69154"
+        "foreground": "#FFB86C"
       }
     },
     {
@@ -1140,43 +1140,43 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#efdc35"
+        "foreground": "#F1FA8C"
       }
     },
     {
       "scope": "variable.language.arguments",
       "settings": {
-        "foreground": "#ec89cb"
+        "foreground": "#FF79C6"
       }
     },
     {
       "scope": "variable.other.class",
       "settings": {
-        "foreground": "#00dded"
+        "foreground": "#8BE9FD"
       }
     },
     {
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#ec89cb"
+        "foreground": "#BD93F9"
       }
     },
     {
       "scope": "variable.other.member",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#F8F8F2"
       }
     },
     {
       "scope": "variable.function",
       "settings": {
-        "foreground": "#06c993"
+        "foreground": "#50FA7B"
       }
     },
     {
       "scope": "variable.other.substitution",
       "settings": {
-        "foreground": "#f69154"
+        "foreground": "#FFB86C"
       }
     },
     {
@@ -1185,7 +1185,7 @@
         "source.ruby variable.other.readwrite.class.ruby"
       ],
       "settings": {
-        "foreground": "#ec89cb"
+        "foreground": "#FF79C6"
       }
     },
     {
@@ -1195,7 +1195,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ec89cb"
+        "foreground": "#BD93F9"
       }
     },
     {
@@ -1204,7 +1204,7 @@
         "variable.other.object.js"
       ],
       "settings": {
-        "foreground": "#f69154"
+        "foreground": "#FFB86C"
       }
     }
   ]
