@@ -1,11 +1,11 @@
 {
-	"name": "sweet-vscode-dark",
-	"displayName": "Sweet Vscode Dark",
-	"description": "An ultra-dark modern theme for vscode - customized darker version",
-	"version": "1.1.2",
+	"name": "sweet-vscode-amoled",
+	"displayName": "Sweet Vscode AMOLED",
+	"description": "AMOLED-black theme - so dark it disappears on black screens",
+	"version": "1.1.3",
 	"icon": "images/icon.png",
 	"galleryBanner": {
-		"color": "#111115",
+		"color": "#000000",
 		"theme": "dark"
 	},
 	"publisher": "EliverLara",
@@ -26,7 +26,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Sweet vscode Dark",
+				"label": "Sweet vscode AMOLED",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color-theme-sweet.json"
 			}
